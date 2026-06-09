@@ -34,119 +34,147 @@ Logos/
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo/MedRock%20Logo.svg" alt="MedRock Logo" height="200">
+![MedRock Logo](Medrock/MedRock%20Logo/MedRock%20Logo.svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo/png/MedRock%20Logo-16.png) ![32px](Medrock/MedRock%20Logo/png/MedRock%20Logo-32.png) ![48px](Medrock/MedRock%20Logo/png/MedRock%20Logo-48.png) ![64px](Medrock/MedRock%20Logo/png/MedRock%20Logo-64.png) ![128px](Medrock/MedRock%20Logo/png/MedRock%20Logo-128.png) ![256px](Medrock/MedRock%20Logo/png/MedRock%20Logo-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo/png/MedRock%20Logo-512.png)
 
-<img src="Medrock/MedRock%20Logo/png/MedRock%20Logo-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo/png/MedRock%20Logo-1024.png)
+
+*1024px*
 
 
 ### MedRock Logo (Medrock Pharmacy)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/MedRock%20Logo%20(Medrock%20Pharmacy).svg" alt="MedRock Logo (Medrock Pharmacy)" height="130">
+![MedRock Logo (Medrock Pharmacy)](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/MedRock%20Logo%20(Medrock%20Pharmacy).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-16.png) ![32px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-32.png) ![48px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-48.png) ![64px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-64.png) ![128px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-128.png) ![256px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-512.png)
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20(Medrock%20Pharmacy)-1024.png)
+
+*1024px*
 
 
 ### MedRock Logo (Medrock Dermatology)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/MedRock%20Logo%20(Medrock%20Dermatology).svg" alt="MedRock Logo (Medrock Dermatology)" height="130">
+![MedRock Logo (Medrock Dermatology)](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/MedRock%20Logo%20(Medrock%20Dermatology).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-16.png) ![32px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-32.png) ![48px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-48.png) ![64px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-64.png) ![128px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-128.png) ![256px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-512.png)
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo%20(Medrock%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Dermatology)-1024.png)
+
+*1024px*
 
 
 ### MedRock Logo (Medrock Pharmacy Dermatology)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology).svg" alt="MedRock Logo (Medrock Pharmacy Dermatology)" height="130">
+![MedRock Logo (Medrock Pharmacy Dermatology)](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-16.png) ![32px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-32.png) ![48px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-48.png) ![64px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-64.png) ![128px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-128.png) ![256px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-512.png)
 
-<img src="Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20(Medrock%20Pharmacy%20Dermatology)-1024.png)
+
+*1024px*
 
 
 ### MedRock Logo Centered (Medrock Pharmacy)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy).svg" alt="MedRock Logo Centered (Medrock Pharmacy)" height="300">
+![MedRock Logo Centered (Medrock Pharmacy)](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-16.png) ![32px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-32.png) ![48px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-48.png) ![64px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-64.png) ![128px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-128.png) ![256px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-512.png)
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy)-1024.png)
+
+*1024px*
 
 
 ### MedRock Logo Centered (Medrock Dermatology)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/MedRock%20Logo%20Centered%20(Medrock%20Dermatology).svg" alt="MedRock Logo Centered (Medrock Dermatology)" height="300">
+![MedRock Logo Centered (Medrock Dermatology)](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/MedRock%20Logo%20Centered%20(Medrock%20Dermatology).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-16.png) ![32px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-32.png) ![48px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-48.png) ![64px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-64.png) ![128px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-128.png) ![256px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-512.png)
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Dermatology)-1024.png)
+
+*1024px*
 
 
 ### MedRock Logo Centered (Medrock Pharmacy Dermatology)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology).svg" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)" height="300">
+![MedRock Logo Centered (Medrock Pharmacy Dermatology)](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-16.png" alt="16px" title="16px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-32.png" alt="32px" title="32px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-48.png" alt="48px" title="48px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-64.png" alt="64px" title="64px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-128.png" alt="128px" title="128px"> <img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-256.png" alt="256px" title="256px">
+![16px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-16.png) ![32px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-32.png) ![48px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-48.png) ![64px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-64.png) ![128px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-128.png) ![256px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-512.png)
 
-<img src="Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](Medrock/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)/png/MedRock%20Logo%20Centered%20(Medrock%20Pharmacy%20Dermatology)-1024.png)
+
+*1024px*
 
 
 
@@ -158,119 +186,147 @@ Logos/
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo/MedDots%20Logo.svg" alt="MedDots Logo" height="200">
+![MedDots Logo](MedDots/MedDots%20Logo/MedDots%20Logo.svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo/png/MedDots%20Logo-16.png) ![32px](MedDots/MedDots%20Logo/png/MedDots%20Logo-32.png) ![48px](MedDots/MedDots%20Logo/png/MedDots%20Logo-48.png) ![64px](MedDots/MedDots%20Logo/png/MedDots%20Logo-64.png) ![128px](MedDots/MedDots%20Logo/png/MedDots%20Logo-128.png) ![256px](MedDots/MedDots%20Logo/png/MedDots%20Logo-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo/png/MedDots%20Logo-512.png)
 
-<img src="MedDots/MedDots%20Logo/png/MedDots%20Logo-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo/png/MedDots%20Logo-1024.png)
+
+*1024px*
 
 
 ### MedDots Logo (MedDots Pharmacy)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/MedDots%20Logo%20(MedDots%20Pharmacy).svg" alt="MedDots Logo (MedDots Pharmacy)" height="130">
+![MedDots Logo (MedDots Pharmacy)](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/MedDots%20Logo%20(MedDots%20Pharmacy).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-16.png) ![32px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-32.png) ![48px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-48.png) ![64px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-64.png) ![128px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-128.png) ![256px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-512.png)
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20(MedDots%20Pharmacy)-1024.png)
+
+*1024px*
 
 
 ### MedDots Logo (MedDots Engineering)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/MedDots%20Logo%20(MedDots%20Engineering).svg" alt="MedDots Logo (MedDots Engineering)" height="130">
+![MedDots Logo (MedDots Engineering)](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/MedDots%20Logo%20(MedDots%20Engineering).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-16.png) ![32px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-32.png) ![48px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-48.png) ![64px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-64.png) ![128px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-128.png) ![256px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-512.png)
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo%20(MedDots%20Engineering)/png/MedDots%20Logo%20(MedDots%20Engineering)-1024.png)
+
+*1024px*
 
 
 ### MedDots Logo (MedDots Pharmacy Engineering)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering).svg" alt="MedDots Logo (MedDots Pharmacy Engineering)" height="130">
+![MedDots Logo (MedDots Pharmacy Engineering)](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-16.png) ![32px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-32.png) ![48px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-48.png) ![64px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-64.png) ![128px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-128.png) ![256px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-512.png)
 
-<img src="MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20(MedDots%20Pharmacy%20Engineering)-1024.png)
+
+*1024px*
 
 
 ### MedDots Logo Centered (MedDots Pharmacy)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy).svg" alt="MedDots Logo Centered (MedDots Pharmacy)" height="300">
+![MedDots Logo Centered (MedDots Pharmacy)](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-16.png) ![32px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-32.png) ![48px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-48.png) ![64px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-64.png) ![128px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-128.png) ![256px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-512.png)
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy)-1024.png)
+
+*1024px*
 
 
 ### MedDots Logo Centered (MedDots Engineering)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/MedDots%20Logo%20Centered%20(MedDots%20Engineering).svg" alt="MedDots Logo Centered (MedDots Engineering)" height="300">
+![MedDots Logo Centered (MedDots Engineering)](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/MedDots%20Logo%20Centered%20(MedDots%20Engineering).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-16.png) ![32px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-32.png) ![48px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-48.png) ![64px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-64.png) ![128px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-128.png) ![256px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-512.png)
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Engineering)-1024.png)
+
+*1024px*
 
 
 ### MedDots Logo Centered (MedDots Pharmacy Engineering)
 
 **SVG** (vector — infinitely scalable, all type outlined):
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering).svg" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)" height="300">
+![MedDots Logo Centered (MedDots Pharmacy Engineering)](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering).svg)
 
-**PNG** (transparent, px — smallest → largest):
+**PNG** raster ladder (transparent, px — smallest → largest):
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-16.png" alt="16px" title="16px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-32.png" alt="32px" title="32px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-48.png" alt="48px" title="48px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-64.png" alt="64px" title="64px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-128.png" alt="128px" title="128px"> <img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-256.png" alt="256px" title="256px">
+![16px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-16.png) ![32px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-32.png) ![48px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-48.png) ![64px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-64.png) ![128px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-128.png) ![256px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-256.png)
 
-<sub>16px · 32px · 48px · 64px · 128px · 256px</sub>
+*16px · 32px · 48px · 64px · 128px · 256px*
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-512.png" alt="512px" title="512px"> <sub>512px</sub>
+![512px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-512.png)
 
-<img src="MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-1024.png" alt="1024px" title="1024px"> <sub>1024px</sub>
+*512px*
+
+![1024px](MedDots/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)/png/MedDots%20Logo%20Centered%20(MedDots%20Pharmacy%20Engineering)-1024.png)
+
+*1024px*
 
 
 ---

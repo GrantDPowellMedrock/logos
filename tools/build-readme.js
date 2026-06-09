@@ -37,18 +37,18 @@ function heroHeight(name) {
 function logoBlock(brand, name) {
   const base = brand + '/' + name;
   const svg = enc(base + '/' + name + '.svg');
+  const png = N => enc(base + '/png/' + name + '-' + N + '.png');
   let out = '### ' + name + '\n\n';
   out += '**SVG** (vector — infinitely scalable, all type outlined):\n\n';
-  out += '<img src="' + svg + '" alt="' + name + '" height="' + heroHeight(name) + '">\n\n';
-  out += '**PNG** (transparent, px — smallest → largest):\n\n';
-  const png = N => enc(base + '/png/' + name + '-' + N + '.png');
+  out += '![' + name + '](' + svg + ')\n\n';
+  out += '**PNG** raster ladder (transparent, px — smallest → largest):\n\n';
   // small→mid inline on one row
   const small = SIZES.filter(n => n <= 256);
-  out += small.map(n => '<img src="' + png(n) + '" alt="' + n + 'px" title="' + n + 'px">').join(' ') + '\n\n';
-  out += '<sub>' + small.join('px · ') + 'px</sub>\n\n';
+  out += small.map(n => '![' + n + 'px](' + png(n) + ')').join(' ') + '\n\n';
+  out += '*' + small.join('px · ') + 'px*\n\n';
   // large each on its own line
   for (const n of SIZES.filter(n => n > 256)) {
-    out += '<img src="' + png(n) + '" alt="' + n + 'px" title="' + n + 'px"> <sub>' + n + 'px</sub>\n\n';
+    out += '![' + n + 'px](' + png(n) + ')\n\n*' + n + 'px*\n\n';
   }
   return out;
 }
