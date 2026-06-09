@@ -1,0 +1,8 @@
+# Node tooling deps (reinstall with: npm --prefix tools install)
+tools/node_modules/
+tools/package-lock.json
+
+# OS cruft
+Thumbs.db
+.DS_Store
+desktop.ini
