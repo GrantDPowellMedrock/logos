@@ -45,9 +45,11 @@ function logoBlock(brand, logo) {
   for (const n of SIZES.filter(n => n > 256)) {
     out += '![' + n + 'px](' + enc(png(n)) + ')\n\n*' + n + 'px*\n\n';
   }
-  out += '**Raw image links** (public — copy-paste):\n\n';
-  out += '```text\n' + RAW + enc(svg) + '\n';
-  out += SIZES.map(n => RAW + enc(png(n))).join('\n') + '\n```\n';
+  out += '**Raw image links** (public — each has its own copy button):\n\n';
+  const links = [{ label: 'SVG', url: svg }, ...SIZES.map(n => ({ label: n + 'px', url: png(n) }))];
+  for (const l of links) {
+    out += l.label + '\n\n```text\n' + RAW + enc(l.url) + '\n```\n\n';
+  }
   return out;
 }
 
