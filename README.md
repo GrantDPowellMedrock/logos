@@ -4,7 +4,7 @@ Every official MedRock and MedDots logo, ready to download and use. Scroll down 
 
 ## How to use these logos
 
-**To download a logo:** click its picture — it opens the image file in your browser, where you can right-click and choose **“Save image as…”**. The large image is the SVG (best quality).
+**To download a logo:** click its picture — it opens the full **SVG** (best quality) in your browser, where you can right-click and choose **“Save image as…”**. (Each logo is previewed at 512 px here just to keep the page tidy.)
 
 Need a specific PNG size, or a link to copy? Under each logo, click **“Other sizes & direct links”** to expand the full set of sizes plus copy-paste links (for websites, email signatures, slide decks).
 
@@ -64,24 +64,34 @@ Every logo has a **see-through (transparent) background**, so it sits cleanly on
 
 ### MedRock Logo
 
-[![MedRock Logo](Medrock/medrock-logo/medrock-logo.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/medrock-logo.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/medrock-logo.svg"><img src="Medrock/medrock-logo/png/medrock-logo-512.png" alt="MedRock Logo"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-logo/png/medrock-logo-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-16.png) [![32px](Medrock/medrock-logo/png/medrock-logo-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-32.png) [![48px](Medrock/medrock-logo/png/medrock-logo-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-48.png) [![64px](Medrock/medrock-logo/png/medrock-logo-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-64.png) [![128px](Medrock/medrock-logo/png/medrock-logo-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-128.png) [![256px](Medrock/medrock-logo/png/medrock-logo-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-16.png"><img src="Medrock/medrock-logo/png/medrock-logo-16.png" alt="MedRock Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-32.png"><img src="Medrock/medrock-logo/png/medrock-logo-32.png" alt="MedRock Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-48.png"><img src="Medrock/medrock-logo/png/medrock-logo-48.png" alt="MedRock Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-64.png"><img src="Medrock/medrock-logo/png/medrock-logo-64.png" alt="MedRock Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-128.png"><img src="Medrock/medrock-logo/png/medrock-logo-128.png" alt="MedRock Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-256.png"><img src="Medrock/medrock-logo/png/medrock-logo-256.png" alt="MedRock Logo"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-logo/png/medrock-logo-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-512.png"><img src="Medrock/medrock-logo/png/medrock-logo-512.png" alt="MedRock Logo"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-logo/png/medrock-logo-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-logo/png/medrock-logo-1024.png"><img src="Medrock/medrock-logo/png/medrock-logo-1024.png" alt="MedRock Logo"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -145,24 +155,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo (Medrock Pharmacy)
 
-[![MedRock Logo (Medrock Pharmacy)](Medrock/medrock-pharmacy/medrock-pharmacy.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/medrock-pharmacy.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/medrock-pharmacy.svg"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-512.png" alt="MedRock Logo (Medrock Pharmacy)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-pharmacy/png/medrock-pharmacy-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-16.png) [![32px](Medrock/medrock-pharmacy/png/medrock-pharmacy-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-32.png) [![48px](Medrock/medrock-pharmacy/png/medrock-pharmacy-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-48.png) [![64px](Medrock/medrock-pharmacy/png/medrock-pharmacy-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-64.png) [![128px](Medrock/medrock-pharmacy/png/medrock-pharmacy-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-128.png) [![256px](Medrock/medrock-pharmacy/png/medrock-pharmacy-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-16.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-16.png" alt="MedRock Logo (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-32.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-32.png" alt="MedRock Logo (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-48.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-48.png" alt="MedRock Logo (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-64.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-64.png" alt="MedRock Logo (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-128.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-128.png" alt="MedRock Logo (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-256.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-256.png" alt="MedRock Logo (Medrock Pharmacy)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-pharmacy/png/medrock-pharmacy-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-512.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-512.png" alt="MedRock Logo (Medrock Pharmacy)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-pharmacy/png/medrock-pharmacy-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy/png/medrock-pharmacy-1024.png"><img src="Medrock/medrock-pharmacy/png/medrock-pharmacy-1024.png" alt="MedRock Logo (Medrock Pharmacy)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -226,24 +246,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo (Medrock Dermatology)
 
-[![MedRock Logo (Medrock Dermatology)](Medrock/medrock-dermatology/medrock-dermatology.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/medrock-dermatology.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/medrock-dermatology.svg"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-512.png" alt="MedRock Logo (Medrock Dermatology)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-dermatology/png/medrock-dermatology-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-16.png) [![32px](Medrock/medrock-dermatology/png/medrock-dermatology-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-32.png) [![48px](Medrock/medrock-dermatology/png/medrock-dermatology-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-48.png) [![64px](Medrock/medrock-dermatology/png/medrock-dermatology-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-64.png) [![128px](Medrock/medrock-dermatology/png/medrock-dermatology-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-128.png) [![256px](Medrock/medrock-dermatology/png/medrock-dermatology-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-16.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-16.png" alt="MedRock Logo (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-32.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-32.png" alt="MedRock Logo (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-48.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-48.png" alt="MedRock Logo (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-64.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-64.png" alt="MedRock Logo (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-128.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-128.png" alt="MedRock Logo (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-256.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-256.png" alt="MedRock Logo (Medrock Dermatology)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-dermatology/png/medrock-dermatology-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-512.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-512.png" alt="MedRock Logo (Medrock Dermatology)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-dermatology/png/medrock-dermatology-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology/png/medrock-dermatology-1024.png"><img src="Medrock/medrock-dermatology/png/medrock-dermatology-1024.png" alt="MedRock Logo (Medrock Dermatology)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -307,24 +337,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo (Medrock Pharmacy Dermatology)
 
-[![MedRock Logo (Medrock Pharmacy Dermatology)](Medrock/medrock-pharmacy-dermatology/medrock-pharmacy-dermatology.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/medrock-pharmacy-dermatology.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/medrock-pharmacy-dermatology.svg"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-512.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-16.png) [![32px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-32.png) [![48px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-48.png) [![64px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-64.png) [![128px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-128.png) [![256px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-16.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-16.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-32.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-32.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-48.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-48.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-64.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-64.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-128.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-128.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-256.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-256.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-512.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-512.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-1024.png"><img src="Medrock/medrock-pharmacy-dermatology/png/medrock-pharmacy-dermatology-1024.png" alt="MedRock Logo (Medrock Pharmacy Dermatology)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -388,24 +428,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo Centered (Medrock Pharmacy)
 
-[![MedRock Logo Centered (Medrock Pharmacy)](Medrock/medrock-pharmacy-centered/medrock-pharmacy-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/medrock-pharmacy-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/medrock-pharmacy-centered.svg"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-512.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-16.png) [![32px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-32.png) [![48px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-48.png) [![64px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-64.png) [![128px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-128.png) [![256px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-16.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-16.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-32.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-32.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-48.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-48.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-64.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-64.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-128.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-128.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-256.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-256.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-512.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-512.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-1024.png"><img src="Medrock/medrock-pharmacy-centered/png/medrock-pharmacy-centered-1024.png" alt="MedRock Logo Centered (Medrock Pharmacy)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -469,24 +519,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo Centered (Medrock Dermatology)
 
-[![MedRock Logo Centered (Medrock Dermatology)](Medrock/medrock-dermatology-centered/medrock-dermatology-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/medrock-dermatology-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/medrock-dermatology-centered.svg"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-512.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-16.png) [![32px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-32.png) [![48px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-48.png) [![64px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-64.png) [![128px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-128.png) [![256px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-16.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-16.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-32.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-32.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-48.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-48.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-64.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-64.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-128.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-128.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-256.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-256.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-512.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-512.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-1024.png"><img src="Medrock/medrock-dermatology-centered/png/medrock-dermatology-centered-1024.png" alt="MedRock Logo Centered (Medrock Dermatology)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -550,24 +610,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo Centered (Medrock Pharmacy Dermatology)
 
-[![MedRock Logo Centered (Medrock Pharmacy Dermatology)](Medrock/medrock-pharmacy-dermatology-centered/medrock-pharmacy-dermatology-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/medrock-pharmacy-dermatology-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/medrock-pharmacy-dermatology-centered.svg"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-512.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-16.png) [![32px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-32.png) [![48px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-48.png) [![64px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-64.png) [![128px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-128.png) [![256px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-16.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-16.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-32.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-32.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-48.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-48.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-64.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-64.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-128.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-128.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-256.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-256.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-512.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-512.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-1024.png"><img src="Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-1024.png" alt="MedRock Logo Centered (Medrock Pharmacy Dermatology)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -631,24 +701,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedRock Logo Centered (Medrock Dermatology Science of SkinCare)
 
-[![MedRock Logo Centered (Medrock Dermatology Science of SkinCare)](Medrock/medrock-dermatology-science-of-skincare-centered/medrock-dermatology-science-of-skincare-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/medrock-dermatology-science-of-skincare-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/medrock-dermatology-science-of-skincare-centered.svg"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-16.png) [![32px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-32.png) [![48px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-48.png) [![64px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-64.png) [![128px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-128.png) [![256px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-16.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-16.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-32.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-32.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-48.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-48.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-64.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-64.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-128.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-128.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-256.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-256.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-1024.png"><img src="Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-1024.png" alt="MedRock Logo Centered (Medrock Dermatology Science of SkinCare)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -717,24 +797,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ### MedDots Logo
 
-[![MedDots Logo](MedDots/meddots-logo/meddots-logo.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/meddots-logo.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/meddots-logo.svg"><img src="MedDots/meddots-logo/png/meddots-logo-512.png" alt="MedDots Logo"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-logo/png/meddots-logo-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-16.png) [![32px](MedDots/meddots-logo/png/meddots-logo-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-32.png) [![48px](MedDots/meddots-logo/png/meddots-logo-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-48.png) [![64px](MedDots/meddots-logo/png/meddots-logo-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-64.png) [![128px](MedDots/meddots-logo/png/meddots-logo-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-128.png) [![256px](MedDots/meddots-logo/png/meddots-logo-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-16.png"><img src="MedDots/meddots-logo/png/meddots-logo-16.png" alt="MedDots Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-32.png"><img src="MedDots/meddots-logo/png/meddots-logo-32.png" alt="MedDots Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-48.png"><img src="MedDots/meddots-logo/png/meddots-logo-48.png" alt="MedDots Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-64.png"><img src="MedDots/meddots-logo/png/meddots-logo-64.png" alt="MedDots Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-128.png"><img src="MedDots/meddots-logo/png/meddots-logo-128.png" alt="MedDots Logo"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-256.png"><img src="MedDots/meddots-logo/png/meddots-logo-256.png" alt="MedDots Logo"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-logo/png/meddots-logo-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-512.png"><img src="MedDots/meddots-logo/png/meddots-logo-512.png" alt="MedDots Logo"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-logo/png/meddots-logo-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-logo/png/meddots-logo-1024.png"><img src="MedDots/meddots-logo/png/meddots-logo-1024.png" alt="MedDots Logo"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -798,24 +888,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 
 ### MedDots Logo (MedDots Pharmacy)
 
-[![MedDots Logo (MedDots Pharmacy)](MedDots/meddots-pharmacy/meddots-pharmacy.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/meddots-pharmacy.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/meddots-pharmacy.svg"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-512.png" alt="MedDots Logo (MedDots Pharmacy)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-pharmacy/png/meddots-pharmacy-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-16.png) [![32px](MedDots/meddots-pharmacy/png/meddots-pharmacy-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-32.png) [![48px](MedDots/meddots-pharmacy/png/meddots-pharmacy-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-48.png) [![64px](MedDots/meddots-pharmacy/png/meddots-pharmacy-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-64.png) [![128px](MedDots/meddots-pharmacy/png/meddots-pharmacy-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-128.png) [![256px](MedDots/meddots-pharmacy/png/meddots-pharmacy-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-16.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-16.png" alt="MedDots Logo (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-32.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-32.png" alt="MedDots Logo (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-48.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-48.png" alt="MedDots Logo (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-64.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-64.png" alt="MedDots Logo (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-128.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-128.png" alt="MedDots Logo (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-256.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-256.png" alt="MedDots Logo (MedDots Pharmacy)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-pharmacy/png/meddots-pharmacy-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-512.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-512.png" alt="MedDots Logo (MedDots Pharmacy)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-pharmacy/png/meddots-pharmacy-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy/png/meddots-pharmacy-1024.png"><img src="MedDots/meddots-pharmacy/png/meddots-pharmacy-1024.png" alt="MedDots Logo (MedDots Pharmacy)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -879,24 +979,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 
 ### MedDots Logo (MedDots Engineering)
 
-[![MedDots Logo (MedDots Engineering)](MedDots/meddots-engineering/meddots-engineering.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/meddots-engineering.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/meddots-engineering.svg"><img src="MedDots/meddots-engineering/png/meddots-engineering-512.png" alt="MedDots Logo (MedDots Engineering)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-engineering/png/meddots-engineering-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-16.png) [![32px](MedDots/meddots-engineering/png/meddots-engineering-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-32.png) [![48px](MedDots/meddots-engineering/png/meddots-engineering-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-48.png) [![64px](MedDots/meddots-engineering/png/meddots-engineering-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-64.png) [![128px](MedDots/meddots-engineering/png/meddots-engineering-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-128.png) [![256px](MedDots/meddots-engineering/png/meddots-engineering-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-16.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-16.png" alt="MedDots Logo (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-32.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-32.png" alt="MedDots Logo (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-48.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-48.png" alt="MedDots Logo (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-64.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-64.png" alt="MedDots Logo (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-128.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-128.png" alt="MedDots Logo (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-256.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-256.png" alt="MedDots Logo (MedDots Engineering)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-engineering/png/meddots-engineering-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-512.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-512.png" alt="MedDots Logo (MedDots Engineering)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-engineering/png/meddots-engineering-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering/png/meddots-engineering-1024.png"><img src="MedDots/meddots-engineering/png/meddots-engineering-1024.png" alt="MedDots Logo (MedDots Engineering)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -960,24 +1070,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 
 ### MedDots Logo (MedDots Pharmacy Engineering)
 
-[![MedDots Logo (MedDots Pharmacy Engineering)](MedDots/meddots-pharmacy-engineering/meddots-pharmacy-engineering.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/meddots-pharmacy-engineering.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/meddots-pharmacy-engineering.svg"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-512.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-16.png) [![32px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-32.png) [![48px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-48.png) [![64px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-64.png) [![128px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-128.png) [![256px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-16.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-16.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-32.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-32.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-48.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-48.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-64.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-64.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-128.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-128.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-256.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-256.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-512.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-512.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-1024.png"><img src="MedDots/meddots-pharmacy-engineering/png/meddots-pharmacy-engineering-1024.png" alt="MedDots Logo (MedDots Pharmacy Engineering)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -1041,24 +1161,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 
 ### MedDots Logo Centered (MedDots Pharmacy)
 
-[![MedDots Logo Centered (MedDots Pharmacy)](MedDots/meddots-pharmacy-centered/meddots-pharmacy-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/meddots-pharmacy-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/meddots-pharmacy-centered.svg"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-512.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-16.png) [![32px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-32.png) [![48px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-48.png) [![64px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-64.png) [![128px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-128.png) [![256px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-16.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-16.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-32.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-32.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-48.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-48.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-64.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-64.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-128.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-128.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-256.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-256.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-512.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-512.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-1024.png"><img src="MedDots/meddots-pharmacy-centered/png/meddots-pharmacy-centered-1024.png" alt="MedDots Logo Centered (MedDots Pharmacy)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -1122,24 +1252,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 
 ### MedDots Logo Centered (MedDots Engineering)
 
-[![MedDots Logo Centered (MedDots Engineering)](MedDots/meddots-engineering-centered/meddots-engineering-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/meddots-engineering-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/meddots-engineering-centered.svg"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-512.png" alt="MedDots Logo Centered (MedDots Engineering)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-16.png) [![32px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-32.png) [![48px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-48.png) [![64px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-64.png) [![128px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-128.png) [![256px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-16.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-16.png" alt="MedDots Logo Centered (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-32.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-32.png" alt="MedDots Logo Centered (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-48.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-48.png" alt="MedDots Logo Centered (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-64.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-64.png" alt="MedDots Logo Centered (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-128.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-128.png" alt="MedDots Logo Centered (MedDots Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-256.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-256.png" alt="MedDots Logo Centered (MedDots Engineering)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-512.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-512.png" alt="MedDots Logo Centered (MedDots Engineering)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-engineering-centered/png/meddots-engineering-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-engineering-centered/png/meddots-engineering-centered-1024.png"><img src="MedDots/meddots-engineering-centered/png/meddots-engineering-centered-1024.png" alt="MedDots Logo Centered (MedDots Engineering)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 
@@ -1203,24 +1343,34 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 
 ### MedDots Logo Centered (MedDots Pharmacy Engineering)
 
-[![MedDots Logo Centered (MedDots Pharmacy Engineering)](MedDots/meddots-pharmacy-engineering-centered/meddots-pharmacy-engineering-centered.svg)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/meddots-pharmacy-engineering-centered.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/meddots-pharmacy-engineering-centered.svg"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-512.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a><br>
+  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>
+</p>
 
 <details>
 <summary><b>Other sizes &amp; direct links</b> — click to open</summary>
 
-**PNG sizes** — click any to open the file, then right-click → Save:
+<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>
 
-[![16px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-16.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-16.png) [![32px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-32.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-32.png) [![48px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-48.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-48.png) [![64px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-64.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-64.png) [![128px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-128.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-128.png) [![256px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-256.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-256.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-16.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-16.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-32.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-32.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-48.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-48.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-64.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-64.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-128.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-128.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a>
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-256.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-256.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a>
+</p>
 
-*16px · 32px · 48px · 64px · 128px · 256px*
+<p align="center"><sub>16&nbsp;px&nbsp;·&nbsp;32&nbsp;px&nbsp;·&nbsp;48&nbsp;px&nbsp;·&nbsp;64&nbsp;px&nbsp;·&nbsp;128&nbsp;px&nbsp;·&nbsp;256&nbsp;px</sub></p>
 
-[![512px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-512.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-512.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-512.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-512.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a><br><sub>512&nbsp;px</sub>
+</p>
 
-*512px*
-
-[![1024px](MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-1024.png)](https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-1024.png)
-
-*1024px*
+<p align="center">
+  <a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-1024.png"><img src="MedDots/meddots-pharmacy-engineering-centered/png/meddots-pharmacy-engineering-centered-1024.png" alt="MedDots Logo Centered (MedDots Pharmacy Engineering)"></a><br><sub>1024&nbsp;px</sub>
+</p>
 
 **Direct links** — copy to paste into a website, email, or slide deck:
 

@@ -38,20 +38,24 @@ function logoBlock(brand, logo) {
   const svgRaw = RAW + svgRel;
   const pngRel = N => enc(base + '/png/' + logo.slug + '-' + N + '.png');
   const pngRaw = N => RAW + pngRel(N);
-  const link = (imgRel, target) => '[![' + logo.display + '](' + imgRel + ')](' + target + ')';
+  const png512 = enc(base + '/png/' + logo.slug + '-512.png');
+  const imgLink = (rel, target) => '<a href="' + target + '"><img src="' + rel + '" alt="' + logo.display + '"></a>';
+  const small = SIZES.filter(n => n <= 256);
 
   let o = '### ' + logo.display + '\n\n';
-  // always-visible clickable hero (opens the SVG file)
-  o += link(svgRel, svgRaw) + '\n\n';
-  // everything else folds into a default-collapsed section
+  // always-visible, centered hero — 512 px preview, links to the full scalable SVG
+  o += '<p align="center">\n';
+  o += '  <a href="' + svgRaw + '"><img src="' + png512 + '" alt="' + logo.display + '"></a><br>\n';
+  o += '  <sub><em>Rendered at 512&nbsp;px — click the logo for the full, scalable SVG</em></sub>\n';
+  o += '</p>\n\n';
+  // everything else folds into a default-collapsed section (images centered)
   o += '<details>\n';
   o += '<summary><b>Other sizes &amp; direct links</b> — click to open</summary>\n\n';
-  o += '**PNG sizes** — click any to open the file, then right-click → Save:\n\n';
-  const small = SIZES.filter(n => n <= 256);
-  o += small.map(n => '[![' + n + 'px](' + pngRel(n) + ')](' + pngRaw(n) + ')').join(' ') + '\n\n';
-  o += '*' + small.join('px · ') + 'px*\n\n';
+  o += '<p align="center"><b>PNG sizes</b> — click any to open it, then right-click &rarr; Save</p>\n\n';
+  o += '<p align="center">\n  ' + small.map(n => imgLink(pngRel(n), pngRaw(n))).join('\n  ') + '\n</p>\n\n';
+  o += '<p align="center"><sub>' + small.join('&nbsp;px&nbsp;·&nbsp;') + '&nbsp;px</sub></p>\n\n';
   for (const n of SIZES.filter(n => n > 256)) {
-    o += '[![' + n + 'px](' + pngRel(n) + ')](' + pngRaw(n) + ')\n\n*' + n + 'px*\n\n';
+    o += '<p align="center">\n  ' + imgLink(pngRel(n), pngRaw(n)) + '<br><sub>' + n + '&nbsp;px</sub>\n</p>\n\n';
   }
   o += '**Direct links** — copy to paste into a website, email, or slide deck:\n\n';
   const links = [['SVG (best quality, any size)', svgRaw], ...SIZES.map(n => [n + 'px PNG', pngRaw(n)])];
@@ -73,7 +77,7 @@ md += '# MedRock & MedDots — Logo Library\n\n';
 md += 'Every official MedRock and MedDots logo, ready to download and use. Scroll down to see them all, or jump to one using **[Find a logo](#find-a-logo)** below.\n\n';
 
 md += '## How to use these logos\n\n';
-md += '**To download a logo:** click its picture — it opens the image file in your browser, where you can right-click and choose **“Save image as…”**. The large image is the SVG (best quality).\n\n';
+md += '**To download a logo:** click its picture — it opens the full **SVG** (best quality) in your browser, where you can right-click and choose **“Save image as…”**. (Each logo is previewed at 512 px here just to keep the page tidy.)\n\n';
 md += 'Need a specific PNG size, or a link to copy? Under each logo, click **“Other sizes & direct links”** to expand the full set of sizes plus copy-paste links (for websites, email signatures, slide decks).\n\n';
 md += '**Should I use the SVG or a PNG?**\n\n';
 md += '- **SVG** — the original artwork. It stays perfectly sharp at *any* size, from a business card to a billboard. Use this whenever you can.\n';
