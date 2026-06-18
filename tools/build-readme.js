@@ -19,6 +19,7 @@ const BRANDS = [
     { slug: 'medrock-pharmacy-centered', display: 'MedRock Logo Centered (Medrock Pharmacy)' },
     { slug: 'medrock-dermatology-centered', display: 'MedRock Logo Centered (Medrock Dermatology)' },
     { slug: 'medrock-pharmacy-dermatology-centered', display: 'MedRock Logo Centered (Medrock Pharmacy Dermatology)' },
+    { slug: 'medrock-dermatology-science-of-skincare-centered', display: 'MedRock Logo Centered (Medrock Dermatology Science of SkinCare)' },
   ]},
   { dir: 'MedDots', title: 'MedDots', logos: [
     { slug: 'meddots-logo', display: 'MedDots Logo' },

@@ -39,6 +39,7 @@ Logos/
   - [MedRock Logo Centered (Medrock Pharmacy)](#medrock-logo-centered-medrock-pharmacy)
   - [MedRock Logo Centered (Medrock Dermatology)](#medrock-logo-centered-medrock-dermatology)
   - [MedRock Logo Centered (Medrock Pharmacy Dermatology)](#medrock-logo-centered-medrock-pharmacy-dermatology)
+  - [MedRock Logo Centered (Medrock Dermatology Science of SkinCare)](#medrock-logo-centered-medrock-dermatology-science-of-skincare)
 - [MedDots](#meddots)
   - [MedDots Logo](#meddots-logo)
   - [MedDots Logo (MedDots Pharmacy)](#meddots-logo-meddots-pharmacy)
@@ -601,6 +602,85 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock
 
 ```text
 https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-pharmacy-dermatology-centered/png/medrock-pharmacy-dermatology-centered-1024.png
+```
+
+
+---
+
+### MedRock Logo Centered (Medrock Dermatology Science of SkinCare)
+
+**SVG** (vector — infinitely scalable, all type outlined):
+
+![MedRock Logo Centered (Medrock Dermatology Science of SkinCare)](Medrock/medrock-dermatology-science-of-skincare-centered/medrock-dermatology-science-of-skincare-centered.svg)
+
+**PNG** raster ladder (transparent, px — smallest → largest):
+
+![16px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-16.png) ![32px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-32.png) ![48px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-48.png) ![64px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-64.png) ![128px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-128.png) ![256px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-256.png)
+
+*16px · 32px · 48px · 64px · 128px · 256px*
+
+![512px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png)
+
+*512px*
+
+![1024px](Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-1024.png)
+
+*1024px*
+
+**Raw image links** (public — each has its own copy button):
+
+SVG
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/medrock-dermatology-science-of-skincare-centered.svg
+```
+
+16px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-16.png
+```
+
+32px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-32.png
+```
+
+48px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-48.png
+```
+
+64px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-64.png
+```
+
+128px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-128.png
+```
+
+256px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-256.png
+```
+
+512px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-512.png
+```
+
+1024px
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/Medrock/medrock-dermatology-science-of-skincare-centered/png/medrock-dermatology-science-of-skincare-centered-1024.png
 ```
 
 
