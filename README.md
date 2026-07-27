@@ -56,6 +56,11 @@ Every logo has a **see-through (transparent) background**, so it sits cleanly on
   - [MedDots Logo Centered (MedDots Pharmacy)](#meddots-logo-centered-meddots-pharmacy)
   - [MedDots Logo Centered (MedDots Engineering)](#meddots-logo-centered-meddots-engineering)
   - [MedDots Logo Centered (MedDots Pharmacy Engineering)](#meddots-logo-centered-meddots-pharmacy-engineering)
+- [Event Assets (MISC)](#event-assets-misc)
+  - [MedDots horizontal](#meddots-horizontal)
+  - [MedDots stacked](#meddots-stacked)
+  - [FIRST in Texas](#first-in-texas)
+  - [ITKAN Robotics](#itkan-robotics)
 
 
 ---
@@ -1429,6 +1434,107 @@ https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MedDots/meddots
 ```
 
 </details>
+
+---
+
+
+---
+
+# Event Assets (MISC)
+
+Extra assets for the event / shirt project: a plain **MedDots** logo (icon + “MedDots”, no sub-line) plus partner logos. White versions are included for dark garments.
+
+## Plain MedDots logo
+
+### MedDots horizontal
+
+<p align="center"><a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/MedDots-horizontal-2048.png"><img src="MISC/MedDots-horizontal-2048.png" width="512"></a></p>
+
+**Direct links:**
+
+SVG (scalable — best for print)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/MedDots-horizontal.svg
+```
+
+PNG 2048px (transparent)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/MedDots-horizontal-2048.png
+```
+
+
+---
+
+### MedDots stacked
+
+<p align="center"><a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/MedDots-stacked-2048.png"><img src="MISC/MedDots-stacked-2048.png" width="360"></a></p>
+
+**Direct links:**
+
+SVG (scalable — best for print)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/MedDots-stacked.svg
+```
+
+PNG 2048px (transparent)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/MedDots-stacked-2048.png
+```
+
+
+---
+
+## Partner logos
+
+### FIRST in Texas
+
+<p align="center"><a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/FirstInTexas.png"><img src="MISC/FirstInTexas.png" width="440"></a></p>
+
+**Direct links:**
+
+Color PNG (1428px — light backgrounds)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/FirstInTexas.png
+```
+
+White PNG (1023px — dark shirts)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/FirstInTexas-white-stacked.png
+```
+
+
+---
+
+### ITKAN Robotics
+
+<p align="center"><a href="https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/ITKAN-black-1024.png"><img src="MISC/ITKAN-black-1024.png" width="300"></a></p>
+
+**Direct links:**
+
+Black PNG (1024px — light backgrounds)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/ITKAN-black-1024.png
+```
+
+White PNG (1024px — dark shirts)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/ITKAN-white-1024.png
+```
+
+SVG (scalable)
+
+```text
+https://raw.githubusercontent.com/GrantDPowellMedrock/logos/main/MISC/ITKAN.svg
+```
+
 
 ---
 

@@ -70,6 +70,33 @@ for (const brand of BRANDS) {
   toc += '- [' + brand.title + '](#' + anchor(brand.title) + ')\n';
   for (const logo of brand.logos) toc += '  - [' + logo.display + '](#' + anchor(logo.display) + ')\n';
 }
+toc += '- [Event Assets (MISC)](#' + anchor('Event Assets (MISC)') + ')\n';
+for (const it of ['MedDots horizontal', 'MedDots stacked', 'FIRST in Texas', 'ITKAN Robotics'])
+  toc += '  - [' + it + '](#' + anchor(it) + ')\n';
+
+// ---- MISC / event-assets section (flat folder, hand-curated) ----
+function miscItem(display, previewRel, previewWidth, links) {
+  let o = '### ' + display + '\n\n';
+  o += '<p align="center"><a href="' + RAW + enc(previewRel) + '"><img src="' + enc(previewRel) + '" width="' + previewWidth + '"></a></p>\n\n';
+  o += '**Direct links:**\n\n';
+  for (const [label, rel] of links) o += label + '\n\n```text\n' + RAW + enc(rel) + '\n```\n\n';
+  return o + '\n---\n\n';
+}
+function miscSection() {
+  let m = '\n---\n\n# Event Assets (MISC)\n\n';
+  m += 'Extra assets for the event / shirt project: a plain **MedDots** logo (icon + “MedDots”, no sub-line) plus partner logos. White versions are included for dark garments.\n\n';
+  m += '## Plain MedDots logo\n\n';
+  m += miscItem('MedDots horizontal', 'MISC/MedDots-horizontal-2048.png', 512,
+    [['SVG (scalable — best for print)', 'MISC/MedDots-horizontal.svg'], ['PNG 2048px (transparent)', 'MISC/MedDots-horizontal-2048.png']]);
+  m += miscItem('MedDots stacked', 'MISC/MedDots-stacked-2048.png', 360,
+    [['SVG (scalable — best for print)', 'MISC/MedDots-stacked.svg'], ['PNG 2048px (transparent)', 'MISC/MedDots-stacked-2048.png']]);
+  m += '## Partner logos\n\n';
+  m += miscItem('FIRST in Texas', 'MISC/FirstInTexas.png', 440,
+    [['Color PNG (1428px — light backgrounds)', 'MISC/FirstInTexas.png'], ['White PNG (1023px — dark shirts)', 'MISC/FirstInTexas-white-stacked.png']]);
+  m += miscItem('ITKAN Robotics', 'MISC/ITKAN-black-1024.png', 300,
+    [['Black PNG (1024px — light backgrounds)', 'MISC/ITKAN-black-1024.png'], ['White PNG (1024px — dark shirts)', 'MISC/ITKAN-white-1024.png'], ['SVG (scalable)', 'MISC/ITKAN.svg']]);
+  return m;
+}
 
 // ============================ README.md (friendly) ============================
 let md = '';
@@ -107,6 +134,8 @@ for (const brand of BRANDS) {
     md += '\n---\n\n';
   }
 }
+
+md += miscSection();
 
 md += 'Need a size or format that isn’t here, or a one-color / inverted version? Just ask.\n\n';
 md += '*Technical details (folder layout, how these files are generated) live in [DEVELOPER.md](DEVELOPER.md).*\n';
